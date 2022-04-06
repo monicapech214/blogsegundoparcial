@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+h2{
+	text-align:center;
+}
+
+button {
+	
+	background: rgb(187, 255, 0);
+	outline: none !important;
+	border: none;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+input {
+	
+	background: rgb(187, 255, 0);
+}
+p {
+	font-family: SourceSansPro-Regular;
+	font-size: 14px;
+	line-height: 1.7;
+	color: #666666;
+	margin: 0px;
+}
+body{
+	height: 100%;
+	font-family: SourceSansPro-Regular, sans-serif;
+	background-color: rgb(170, 106, 196);
+margin-top: auto;
+margin-left: center;
+margin-right: center;
+margin: center;
+}
+
+label{
+text-align:center;
+}
+textarea{ 
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
