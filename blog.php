@@ -6,7 +6,7 @@
 <link href="style.css" rel="stylesheet"/>
 </head>
 <body>
-<h2>Crear blog </h2>
+<h2>Crear blog</h2>
 <form action="Contenido.php" method="post" name="form1">
 <h2> Título: <h2>
     <label for="campo_titulo"></label>
